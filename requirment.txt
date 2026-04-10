@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+transformers
+sentence-transformers 
+torch 
+pymongo 
+dnspython 
+pydantic 
+numpy 
+scikit-learn 
+accelerate 
+bitsandbytes 
+safetensors 
